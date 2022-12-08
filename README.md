@@ -1,1 +1,1 @@
-This is our README for our project holbertonschool-simple_shell
+This is our README for our group project holbertonschool-simple_shell
