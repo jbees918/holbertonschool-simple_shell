@@ -48,7 +48,7 @@ int hsh_execute(char **arguments, char **argv, int *exit_status)
 			free(new_arguments);
 		return (1);
 	}
-	Return (1);
+	return (1);
 }
 
 /**
