@@ -62,5 +62,4 @@ void sigintH(int signum);
 char *str_concat(char *s1, char *s2);
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);
 
-#endif /* SIMPLE_SHELL_H */
-
+#endif
